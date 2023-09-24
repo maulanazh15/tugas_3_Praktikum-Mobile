@@ -1,6 +1,8 @@
-# tugas_3
+# Tugas 3 Praktikum Mobile
 
-A new Flutter project.
+Nama : Maulana Zhahran
+
+NIM  : H1D021070   
 
 ## Getting Started
 
